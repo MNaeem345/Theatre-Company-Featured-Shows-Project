@@ -1,0 +1,32 @@
+.html{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;;
+}
+
+#header{
+    height: 300px;
+    max-width: 800px;
+    background-image: url(/static/images/theater-image-background.png);
+    background-size: cover;
+    margin:auto;
+    background-color: black;
+}
+.container{
+    padding-right: 15%;
+    padding-left: 15%;
+}
+#footer{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+  
+}
+
+.features{
+    position: absolute;
+    text-align: center;
+    
+}
+
+  
